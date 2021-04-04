@@ -18,7 +18,7 @@ Initial section plan will have a reference section, containing documents that ar
 
 2021-03-12 [Build DB UltimateGoal in Android Studio](doc/jour2103/build-db-ultimategoal-in-android-studio.md)
 
-2021-03-10 [Fabricate a grounding brush](doc/jour2103/fabricate-a-grounding-brush.md)
+2021-03-11 [Fabricate a grounding brush](doc/jour2103/fabricate-a-grounding-brush.md)
 
 2021-03-10 [TSC Autonomous, DB Disconnects, Driver Station app update, Remote Upload Training](doc/jour2103/tsc-autonomous-db-disconnects.md)
 
