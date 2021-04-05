@@ -1,4 +1,6 @@
-2-APR-2021
+##Engineering Notebook Applications
+
+Updated: 5-APR-2021
 
 List of applications for Engineering Notebooks, other purposes, and reviews.
 
@@ -9,6 +11,7 @@ Penzu - OK for personal journaling, I suppose.  Free version has no search, tag
 GitHub Wiki - Free account only permits Wikis in a public repository.
 
 GitHub Pages - Free account only permits "Pages" in a public repository.  Created a site in my personal repository, here: https://journeyman-joe.github.io/placeholder/
+Presents nicely as a website, but Markdown is still a significant bar to easy content creation.  We need a WYSIWYG interface; this isn't it.  Might be OK for more long-term, durable and static reference information.
 
 Overleaf - 
 
