@@ -1,8 +1,8 @@
-##CNC Best Practices
+## CNC Best Practices
 
-###Princeton STEM Academy
+### Princeton STEM Academy
 
-####Plan View Drawing
+#### Plan View Drawing
 
 We **require** a _plan view drawing_ for each CNC operation.
 This drawing should feature the production part(s), on the virtual raw stock, placed on the actual raw stock.
@@ -17,7 +17,7 @@ Such a drawing serves several purposes:
 4. It provides guidance as to locating the origin on the raw stock.  We can find the correct corner, and determine how much clearance we need for the router path.
 5. It provides a reference while we're watching the "dry run" (router in the air) - that the path is what we think it is.
 
-####Tabs
+#### Tabs
 
 Tabs are features added during production of the gcode in the CAM software.
 They bridge the stock on either side of the router cut to preserve some structural integrity of the stock as the cut progresses.
