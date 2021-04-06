@@ -18,6 +18,20 @@ It's how we we convert the CAD files to gcode files that can be processed by Mac
 
 #### Adjusting for Undersized Holes
 
+With our first few efforts, all of our holes (mounting holes, holes for shaft bearings) were undersized.
+We ran a test cut in order to quantify this error, and to determine how to compensate for it at the CAD / CAM level.
+Accordingly, we ran a test piece, cutting four holes, using our 3.175 mm (1/8 inch) end mill router bit.
+
+Nominal diameter | Measured diameter | Error
+-----------------|-------------------|-------
+10 mm | 9.1 mmm | 0.9 mm
+20 mm | 19.25 mm | 0.75 mm
+30 mm | 29.1 mm | 0.9 mm
+40 mm | 39.2 mm | 0.8 mm
+
+
+
+
 #### Plan View Drawing
 
 We **require** a _plan view drawing_ for each CNC operation.
@@ -52,19 +66,28 @@ We should try 2 mm tabs for the next operation in 3.175 mm stock, and will revis
 
 To date, we have only fabricated parts out of polycarbonate plastic.
 
-3.175 mm (1/8 inch) polycarbonate - A very flexible material that vibrates considerably during cutting operations.
+**3.175 mm (1/8 inch) polycarbonate** - A very flexible material that vibrates considerably during cutting operations.
 Needs disproportionately tall tabs to ensure that something is left after all that vibration.
 Full height (3.175 mm) tabs are not out of the question.
 We attach this to the wasteboard at four points for 12 x 12 inch raw stock, six points for 12 x 24 inch raw stock.
 We're still not cutting this well.
 
-6.35 mm (1/4 inch) polycarbonate - This material still cuts quickly, but stays put on the wasteboard.
+**6.35 mm (1/4 inch) polycarbonate** - This material still cuts quickly, but stays put on the wasteboard.
 Parts from this material are strong, and look good.
 We attach this to the wasteboard at four points for 12 x 12 inch raw stock, six points for 12 x 24 inch raw stock.
 
 To date, we have only used a 3.175 mm (1/8 inch) end-mill router bit.
 
 #### Resetting the Home Position
+
+After starting Mach 3 and powering up the CNC machine, we must establish the CNC _home_ positions (three axes).
+Clicking on the _Ref All Home_ button on the Mach 3 screen will start this operation.  The CNC machine will move the router carrier in each axis until it hits the travel limit microswitch, located at maximum positive Z-axis, maximum positive Y-axis, and mimimum negative X-axis.
+
+All actual positions are calculated relative to this _home_.
+Repeat the process if you overdrive the router carriage manually, or through bad gcode.
+
+As installed, it appears that the machine hits some mechanical X-axis limit before actuating the limit microswitch.
+We fixed that by gluing a small piece of particle board to the router carriage to ensure that the carriage closes the microswitch before the motor overdrives the mechanism.
 
 #### Setting the Origin: X and Y Axes
 
