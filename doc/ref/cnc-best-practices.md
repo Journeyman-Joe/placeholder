@@ -52,13 +52,13 @@ We should try 2 mm tabs for the next operation in 3.175 mm stock, and will revis
 
 To date, we have only fabricated parts out of polycarbonate plastic.
 
-\3.175 mm (1/8 inch) polycarbonate - A very flexible material that vibrates considerably during cutting operations.
+3.175 mm (1/8 inch) polycarbonate - A very flexible material that vibrates considerably during cutting operations.
 Needs disproportionately tall tabs to ensure that something is left after all that vibration.
 Full height (3.175 mm) tabs are not out of the question.
 We attach this to the wasteboard at four points for 12 x 12 inch raw stock, six points for 12 x 24 inch raw stock.
 We're still not cutting this well.
 
-\6.35 mm (1/4 inch) polycarbonate - This material still cuts quickly, but stays put on the wasteboard.
+6.35 mm (1/4 inch) polycarbonate - This material still cuts quickly, but stays put on the wasteboard.
 Parts from this material are strong, and look good.
 We attach this to the wasteboard at four points for 12 x 12 inch raw stock, six points for 12 x 24 inch raw stock.
 
