@@ -6,7 +6,7 @@ _Git_ is perhaps the most popular software version control tool in use today.  Y
 
 ### Download the Installer
 
-Go to the Git website, here: [https://git-scm.com/](https://git-scm.com/).  The _Latest Source Release_ icon should list the installer for your operating system (Windows or Mac).  One click should start your download.
+Go to the Git website, here: [https://git-scm.com/](https://git-scm.com/){:target="\_blank" rel="noopener"}.  The _Latest Source Release_ icon should list the installer for your operating system (Windows or Mac).  One click should start your download.
 
 ### Run the Installer
 
@@ -35,3 +35,5 @@ Now, confirm your entries with:
                 git config --global --list
 
 Which should show you all three entries (without the quotes).  (You may have to enter “exit” to quit the display.)  That’s it; you’ve got git.  :-)
+
+[homepage / index](../../index.md)
