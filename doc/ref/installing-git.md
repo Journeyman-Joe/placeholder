@@ -1,4 +1,4 @@
-### Princeton STEM Academy
+### [Princeton STEM Academy](../../index.md)
 
 ## Install and Configure the “Git” Version Control Tool
 
@@ -7,6 +7,8 @@ _Git_ is perhaps the most popular software version control tool in use today.  Y
 ### Download the Installer
 
 Go to the Git website, here: [https://git-scm.com/](https://git-scm.com/){:target="\_blank" rel="noopener"}.  The _Latest Source Release_ icon should list the installer for your operating system (Windows or Mac).  One click should start your download.
+
+[Git Home Page](/media/git_home.jpg)
 
 ### Run the Installer
 
@@ -35,5 +37,14 @@ Now, confirm your entries with:
                 git config --global --list
 
 Which should show you all three entries (without the quotes).  (You may have to enter “exit” to quit the display.)  That’s it; you’ve got git.  :-)
+
+### Notes
+
+_Git_ is an Open Source project.  Like many such projects, it has an unintuitive name.
+Some authorities say that it stands for "Global Information Tracker" - but that's probably an after-the-fact acronym.
+
+You don't need to learn much about Git command line functions to use it in FIRST: Android Studio takes care of most Git functions behind the scenes.
+However, if you choose to make your career in Software Development, Git command line skills are a useful thing to have on your resume.
+There are plenty of text-based and video tutorials to help you.
 
 [homepage / index](../../index.md)
