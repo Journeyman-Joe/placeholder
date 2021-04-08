@@ -1,4 +1,4 @@
-### [Princeton STEM Academy](/index.md)
+### [Princeton STEM Academy](../../index.md)
 
 ## CNC Best Practices
 
@@ -146,4 +146,4 @@ Stop after the bit first touches the stock and you can no longer slide the paper
 Most likely, you can leave the router right where it is.)
 
 
-[_home / index_](/index.md)
+[_home / index_](../../index.md)
