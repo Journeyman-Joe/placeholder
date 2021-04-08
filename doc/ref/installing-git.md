@@ -6,7 +6,7 @@ _Git_ is perhaps the most popular software version control tool in use today.  Y
 
 ### Download the Installer
 
-Go to the Git website, here: https://git-scm.com/ .  The _Latest Source Release_ icon should list the installer for your operating system (Windows or Mac).  One click should start your download.
+Go to the Git website, here: [https://git-scm.com/](https://git-scm.com/).  The _Latest Source Release_ icon should list the installer for your operating system (Windows or Mac).  One click should start your download.
 
 ### Run the Installer
 
