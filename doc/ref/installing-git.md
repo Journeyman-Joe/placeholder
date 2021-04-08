@@ -47,4 +47,4 @@ You don't need to learn much about Git command line functions to use it in FIRST
 However, if you choose to make your career in Software Development, Git command line skills are a useful thing to have on your resume.
 There are plenty of text-based and video tutorials to help you.
 
-[homepage / index](../../index.md)
+[_homepage / index_](../../index.md)
