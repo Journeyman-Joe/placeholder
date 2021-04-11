@@ -9,7 +9,10 @@ It should be updated continuously.
 
 #### Hardware and Software
 
-We have an _Omio X8-2200L USB_.  We control it with _Mach 3_ software, running on a standard Windows 10 PC.
+We have an _Omio X8-2200L USB_.  We control it with _Mach 3 Mill_ software, running on a standard Windows 10 PC.
+
+The [Mach 3 CNC Controller Software Installation and Configuration](https://www.machsupport.com/wp-content/uploads/2013/02/Mach3Mill_Install_Config.pdf) manual is
+useful reading, even if you're using our existing installation.  Likewise, spend some time with [Using Mach 3 Mill](https://www.machsupport.com/wp-content/uploads/2013/02/Mach3Mill_1.84.pdf).
 
 While our part designs come from a variety of CAD software packages (e.g, _PTC Creo Parametric_, _OnShape_), we use _AutoDesk Fusion 360_ as the CAM application.
 It's how we we convert the CAD files to gcode files that can be processed by Mach 3.
@@ -146,4 +149,4 @@ Stop after the bit first touches the stock and you can no longer slide the paper
 Most likely, you can leave the router right where it is.)
 
 
-[_home / index_](../../index.md)
+[_home / index_](/index.md)
