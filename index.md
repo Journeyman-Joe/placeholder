@@ -4,7 +4,11 @@
 
 [CNC Best Practices](doc/ref/cnc-best-practices.md)
 
+[Learning Java for FTC](doc/ref/learning-java-for-ftc.md)
+
 [Installing Android Studio](doc/ref/installing-android-studio.md)
+
+[Installing Intellij](doc/ref/installing-intellij.md)
 
 [Installing Git](doc/ref/installing-git.md)
 
