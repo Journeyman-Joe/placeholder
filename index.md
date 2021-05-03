@@ -10,4 +10,6 @@
 
 [Connecting Android Studio to GitHub](doc/ref/connecting-android-studio-to-github.md)
 
+[Computer Vision](doc/ref/computer-vision.md)
+
 [Engineering Notebook applications](doc/ref/engineering-notebook-applications.md)
