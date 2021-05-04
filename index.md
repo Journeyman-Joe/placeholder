@@ -2,6 +2,10 @@
 
 ## Reference Documents
 
+[Programming Roadmap](doc/ref/programming-roadmap.md)
+
+[CAD / CAM Roadmap](doc/ref/cad-cam-roadmap.md)
+
 [CNC Best Practices](doc/ref/cnc-best-practices.md)
 
 [Learning Java for FTC](doc/ref/learning-java-for-ftc.md)
