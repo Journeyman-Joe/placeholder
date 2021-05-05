@@ -18,7 +18,7 @@ There are 87 videos in this series, but don't panic: they are short,five or ten 
 You don't have to do all of them, either: feel free to stop short of the GUI sequence.
 
 We recommend that you **don't** use (or install) the _Eclipse_ IDE mentioned in these videos.
-Rather, please install the _Intellij_ IDE, by following the instructions [here](../installing-intellij.md).
+Rather, please install the _Intellij_ IDE, by following the instructions [here](doc/ref/installing-intellij.md).
 _Intellij_ is from _JetBrains_, the same company that provides _Android Studio_, which you'll be using to program the FTC robots.
 The transition will be easy if you're moving from _Intellij_ to _Android Studio_, instead of starting with a different IDE.
 
