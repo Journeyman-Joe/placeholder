@@ -52,8 +52,19 @@ But you'll want some tutorials, before you start writing code.
 We're still going to recommend the [Java (Beginner) Programming Tutorials](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
 from _thenewboston_ on YouTube, [here](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28);
 but you'll blast through them faster.
+Or, consider the online _Learn Java for FTC_ ebook, referenced in the next section.
 
 ### If You Already Know Some Java
+
+Another option is _Learn Java for FTC_, by Alan G. Smith.
+Mr. Smith is the Coach for FTC Team 16072, _The Quantum Quacks_; his book is aimed directly at the needs of the FTC programmer.
+It's organized as a textbook for a class, with exercises, and a lab.
+Even if you don't have the lab equipment, the course material should still be helpful and on-point.
+
+(We do, of course, have all of the lab-related equipment in the Princeton STEM Academy: mostly, installed on the robots!)
+
+His book is available as a PDF here: [Learn Java for FTC](https://raw.githubusercontent.com/alan412/LearnJavaForFTC/master/LearnJavaForFTC.pdf) or
+you can buy a hardcopy from Amazon here: [Learn Java for FTC](https://www.amazon.com/dp/B08DBVKXLZ)
 
 
 ### Variations on Java in FTC
