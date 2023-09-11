@@ -46,6 +46,14 @@ Do not hit enter!  Using the left and right cursor arrow keys, and the backspace
 delete the *PowerPlay* reference, and replace it with either *CenterStage* or *CenterStageRR*.
 Leave the `.git` suffix attached.
 
+(If it's not already clear:
+Clone *CenterStage* if you want the plain FTC SDK.
+Clone *CenterStageRR* if you want the Acme Robotics RoadRunner Quickstart SDK.
+You can clone both, if you want:
+Just use the "up" cursor arrow after the first clone operation,
+and edit the `git clone` command (arrow and backspace keys only) 
+to point to the other repository.)
+
 Let's look for a moment at what you've got.
 It's a `git clone` command, pointing your your team GitHub account.
 The string that starts with `ghp_` and ends before the `@` sign is your GitHub Personal Access Token (PAT)
@@ -56,3 +64,10 @@ Now go ahead and hit *enter*.
 You should see a download of you new repository.
 
 That's it; open Android Studio and start exploring.
+Note that it won't show up in your "recently used" list, the first time.
+You will have to "Open" it as a new repository from the top menu,
+and "Trust" the project.
+
+I'll encourage you to start with the *AprilTags* samples,
+in the *external.samples* folder.
+*ConceptAprilTagEasy.java* is a good place to begin.
