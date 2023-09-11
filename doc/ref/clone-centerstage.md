@@ -1,3 +1,7 @@
+### [Princeton STEM Academy](../../index.md)
+
+## Cloning the *CenterStage* and *CenterStage - RoadRunner Quickstart* Repositories
+
 FTC has already released the new Robot Controller SDK 9.0 for the Center Stage season; very timely.
 The good folks at Acme Robotics were right on top of it, too:
 there's a new RoadRunner Quickstart repository for this version of the SDK, also ready to go.
@@ -71,3 +75,5 @@ and "Trust" the project.
 I'll encourage you to start with the *AprilTags* samples,
 in the *external.samples* folder.
 *ConceptAprilTagEasy.java* is a good place to begin.
+
+[_homepage / index_](../../index.md)
