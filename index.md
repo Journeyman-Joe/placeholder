@@ -16,6 +16,8 @@
 
 [Installing Git](doc/ref/installing-git.md)
 
+[Cloning a CenterStage Repository](doc/ref/clone-centerstage.md)
+
 [Connecting Android Studio to GitHub](doc/ref/connecting-android-studio-to-github.md)
 
 [Computer Vision](doc/ref/computer-vision.md)
