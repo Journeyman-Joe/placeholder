@@ -8,9 +8,7 @@ there's a new RoadRunner Quickstart repository for this version of the SDK, also
 
 I've  cloned both repositories into templates for the Princeton STEM Academy teams:
 *CenterStage* and *CenterStageRR*, and uploaded them into your teams' GitHub accounts.
-It will take some time for me to replicate them onto the PSA shared laptops (120 individual clone operations),
-so be patient.  (If you're new, and waiting for set-up help, I'll also ask you to be patient.
-I've got a lot to do this week.)
+I have also pulled them down onto the PSA shared laptops (all teams).
 
 If you already have GitHub credentials from the *PowerPlay* season on your personal laptop,
 you should be able to clone either (or both) of the *CenterStage* repositories without my help.
