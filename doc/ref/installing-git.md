@@ -42,6 +42,8 @@ Which should show you all three entries (without the quotes).  (You may have to 
 
 _Git_ is an Open Source project.  Like many such projects, it has an unintuitive name.
 Some authorities say that it stands for "Global Information Tracker" - but that's probably an after-the-fact acronym.
+(N.B.: An acronym, developed after-the-fact to justify an otherwise mysterious name,
+is called a "backronym".)
 
 You don't need to learn much about Git command line functions to use it in FIRST: Android Studio takes care of most Git functions behind the scenes.
 However, if you choose to make your career in Software Development, Git command line skills are a useful thing to have on your resume.
