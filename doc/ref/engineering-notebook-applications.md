@@ -1,3 +1,5 @@
+### [Princeton STEM Academy](../../index.md)
+
 ## Engineering Notebook Applications
 
 Updated: 16-OCT-2023
@@ -19,7 +21,7 @@ Presents nicely as a website, but Markdown is still a significant bar to easy co
 
 Downside is that native cloud synchronization is only available with Obsidian's paid "sync" service. Other services will work, but have to be manually integrated. Community plugins might help.
 
-*In this list, *Obsidian* is, at this moment, the category leader for Robotics Team Notebook / Journal applications.*
+*In this list,* Obsidian *is the category leader for Robotics Team Notebook / Journal applications.*
 
 **Dokuwiki** - A lightweight Wiki platform: "Wikimedia Lite". Locally hosted. Easy to set up on a virtual Debian machine on my network. Pages are in Markdown; there's a built-in easy to use editor that makes learning Markdown unnecessary for basic formatting.
 
@@ -34,3 +36,5 @@ Robotics Teams might like it. It *looks* like Wikipedia, which they use every da
 **Google Sites** - 
 
 **Trello** - Not for Engineering Notebook.  But, hands down, my favorite organizational tool ever.
+
+[_homepage / index_](../../index.md)
