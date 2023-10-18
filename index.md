@@ -22,4 +22,4 @@
 
 [Computer Vision](doc/ref/computer-vision.md)
 
-[Engineering Notebook applications](doc/ref/engineering-notebook-applications.md)
+[Engineering Notebook Applications](doc/ref/engineering-notebook-applications.md)
