@@ -12,7 +12,7 @@ List of applications for Engineering Notebooks, other purposes, and reviews.
 
 **GitHub Wiki** - Free account only permits Wikis in a public repository.
 
-**GitHub Pages** - Free account only permits "Pages" in a public repository.  Created a site in my personal repository, here: https://journeyman-joe.github.io/placeholder/
+**GitHub Pages** - Free account only permits "Pages" in a public repository.  Created a site in my personal repository, here: [https://journeyman-joe.github.io/placeholder/](https://journeyman-joe.github.io/placeholder/)
 Presents nicely as a website, but Markdown is still a significant bar to easy content creation.  We need a WYSIWYG interface; this isn't it.  Might be OK for more long-term, durable and static reference information.
 
 **GitHub Pages (updated)** - I've been adding to Placeholder, and have created a few other useful documents editing Markdown directly into the web interface. It's productive - for me. I'm also using an offline Markdown editor, *Ghostwriter*, which seems to work well. I still have to `commit` and `push` my changes to the Placeholder repository manually. I like it, but I don't think it's a good option for Robotics Teams.
