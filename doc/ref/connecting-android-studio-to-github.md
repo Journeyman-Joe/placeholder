@@ -15,7 +15,6 @@ The _development environment_ is what's in front of you. Mostly, it's _Android S
 You write and edit your Robot Controller programs in the Android Studio editor, "build" a Robot Controller using the Gradle build system included (and configured by FIRST), and download it to  the Robot using the Android Debug Bridge.
 
 If you always work alone, on the same computer, which never breaks or gets lost, and you never make any mistakes, that's all you need.
-
 #### Version control
 Most of us aren't like that. Many programmers start off inventing their own *ad hoc* version control, by saving old versions and making the new ones with different names: e.g., `RedAuton`, `RedAuton_A`, `RedAuton_B`, etc. And, for a whole lot of us, (both inside and outside of FIRST Tech Challenge) that works just fine for small- and medium- scale projects.
 
@@ -27,6 +26,16 @@ To be blunt, any programmer who works without backing up their programs in a saf
 We at The Princeton STEM Academy use *GitHub* as our cloud backup tool. So do most FIRST Tech Challenge teams, and a very large fraction of software developers in the outside world.
 
 ### The Workflow
+#### What it isn't
+This work environment is **not** like working with an integrated collaboration tool, like Google Docs.
+With Google Docs, several people can be working in the same document.
+There's only one copy, in the cloud, and everybody's changes are reflected everywhere, simultaneously.
 
+#### What it is
+In contrast, in our programming environment, several copies of the same file can exist in different places, at the same time.
+It is up to the "liveware" (people) to ensure that we are not getting in each other's way, and creating conflicts.
+
+We have resources to help manage collaboration in this environment.
+The most important is to develop the habit of keeping your _Development Environment_ synchronized with the team _Verson Control / Cloud Backup_ environment.
 
 [_homepage / index_](../../index.md)
