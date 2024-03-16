@@ -2,7 +2,7 @@
 
 ## Engineering Notebook Applications
 
-Updated: 16-OCT-2023
+Updated: 16-NOV-2024
 
 List of applications for Engineering Notebooks, other purposes, and reviews.
 
