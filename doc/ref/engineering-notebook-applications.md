@@ -29,6 +29,8 @@ Although editing within a page is easy, creating an organized, linked structure 
 
 Robotics Teams might like it. It *looks* like Wikipedia, which they use every day. Team members would get a feeling that they were contributing to something greater.
 
+**Bookstack** - Another Open Source Wiki platform. I haven't tried it. Reputation is that it's more capable than *Dokuwiki*, but with a steeper setup and learning curve. (Include here for completeness.)
+
 **Overleaf** - 
 
 **Google Blog** - 
