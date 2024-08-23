@@ -23,3 +23,5 @@
 [Computer Vision](doc/ref/computer-vision.md)
 
 [Engineering Notebook Applications](doc/ref/engineering-notebook-applications.md)
+
+[Linking Android Studio and GitHub \(External\)](https://journeyman-joe.github.io/GitHub-and-Android-Studio/index.html)
