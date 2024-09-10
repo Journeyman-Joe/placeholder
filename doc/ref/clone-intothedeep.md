@@ -2,7 +2,7 @@
 
 ## Cloning the *IntoTheDeep* and *IntoTheDeep - RoadRunner Quickstart* Repositories
 
-FTC has already released the new Robot Controller SDK 10.0 for the Center Stage season; very timely.
+FTC has already released the new Robot Controller SDK 10.0 for the *Into The Deep* season; very timely.
 The good folks at Acme Robotics were right on top of it, too:
 there's a new RoadRunner Quickstart repository for this version of the SDK, also ready to go.
 
