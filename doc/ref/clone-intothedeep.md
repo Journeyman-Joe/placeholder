@@ -67,7 +67,7 @@ and edit the `git clone` command (arrow and backspace keys only)
 to point to the other repository.)
 
 Let's look for a moment at what you've got.
-It's a `git clone` command, pointing your your team GitHub account.
+It's a `git clone` command, pointing to your team GitHub account.
 The string that starts with `ghp_` and ends before the `@` sign is your GitHub *Personal Access Token* (PAT)
 that lets you push and pull to and from your team's account.
 The manual edits point the `git clone` command to the new *IntoTheDeep* repository.
