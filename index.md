@@ -16,6 +16,8 @@
 
 [Installing Git](doc/ref/installing-git.md)
 
+[Cloning an Into The Deep Repository](doc/ref/clone-intothedeep.md)
+
 [Cloning a CenterStage Repository](doc/ref/clone-centerstage.md)
 
 [Connecting Android Studio to GitHub](doc/ref/connecting-android-studio-to-github.md)
