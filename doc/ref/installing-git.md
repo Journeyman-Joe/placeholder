@@ -4,17 +4,35 @@
 
 _Git_ is perhaps the most popular software version control tool in use today.  You don’t absolutely need it to learn how to program, but you will need it to participate in FIRST Tech Challenge robot programming as part of a team.
 
-### Download the Installer
+### Download the Installer - Windows
 
-Go to the Git website, here: [https://git-scm.com/](https://git-scm.com/){:target="\_blank" rel="noopener"}.  The _Latest Source Release_ icon should list the installer for your operating system (Windows or Mac).  One click should start your download.
+Go to the Git website, here: [https://git-scm.com/](https://git-scm.com/){:target="\_blank" rel="noopener"}.  The _Latest Source Release_ icon should list the installer for your operating system (Windows or Mac).  The monitor image should show the correct Git version for your computer.
+
+Click the button on the "monitor".
 
 ![Git Home Page](../media/git_home.png)
 
-### Run the Installer
+The next screen should offer you the option of several different installers. Click on the default; your download should start automatically.
+
+![Git Download Page](../media/git_download_2.png)
+
+### Run the Installer - Windows
 
 From your Downloads folder, double-click on the Git Installer file to start it running.  Accept the license, and click through every screen offering changes to default options.  **Do not change any defaults; leave them as they are.**  Just click through every screen (there are quite a few).  It won’t take long.  (The final screen will offer to show you the release notes.  You don’t need to read them.)
 
-### Configure Git
+### Install Git - Mac
+
+Apple maintains its own version of Git, as part of the *developer tools*. If they are not already installed on your Mac, you will have to install the Apple package.
+
+To do so, open the "Terminal" app.
+
+Then, enter (or copy and paste) this command:
+
+    git --version
+
+If you get a Git version response, great. Otherwise, your Mac should start a dialog offering to install the iOS (Apple) developer tools. Respond appropriately to install the developer tools on your computer. This may take a while; there's a lot to download and install.
+
+### Configure Git - Windows or Mac
 
 Open a Command Prompt (Mac: Terminal) window.  You will now set a default editor for “commit” messages in the rare event you need to do that from a command line.  You will also set a default user name for your machine, and a default e-mail address.  These can be changed at any time.
 
@@ -32,17 +50,20 @@ Neither command will report successful completion; you’ll just get another pro
 
 These are two separate commands. Copy, paste, and edit them one at a time. Use only your backspace and arrow keys to edit these lines; your mouse or touchpad may not work correctly.
 
-**Important: After pasting them into your Command Prompt (or Terminal) window, backspace over the name / email, *including the quotes*, and type in your own information, again *including the quotes*, before you hit \<Enter\>.**
+**WARNING: Read completely through the rest of this section before you Copy and Paste the commands.
+
+Important: After pasting these lines into your Command Prompt (or Terminal) window, backspace over the name / email, *including the quotes*, and type in your own information, again *including the quotes*, before you hit \<Enter\>.
+
+You MUST delete and re-type the quote characters.**
 
 
 ```
-git config --global user.name ”Max Patel”
+git config --global user.name "Max Patel"
 ```
 
 
-
 ```
-git config --global user.email ”max@pandora.com”
+git config --global user.email "max@pandora.com"
 ```
 
 Now, confirm your entries with:
