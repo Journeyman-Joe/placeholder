@@ -50,11 +50,11 @@ Neither command will report successful completion; you’ll just get another pro
 
 These are two separate commands. Copy, paste, and edit them one at a time. Use only your backspace and arrow keys to edit these lines; your mouse or touchpad may not work correctly.
 
-**WARNING: Read completely through the rest of this section before you Copy and Paste the commands.
+**WARNING: Read completely through the rest of this section before you Copy and Paste the commands.**
 
-Important: After pasting these lines into your Command Prompt (or Terminal) window, backspace over the name / email, *including the quotes*, and type in your own information, again *including the quotes*, before you hit \<Enter\>.
+**Important: After pasting these lines into your Command Prompt (or Terminal) window, backspace over the name / email, *including the quotes*, and type in your own information, again *including the quotes*, before you hit \<Enter\>.**
 
-You MUST delete and re-type the quote characters.**
+**You MUST delete and re-type the quote characters.**
 
 
 ```
