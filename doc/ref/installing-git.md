@@ -46,15 +46,17 @@ Or, for a Mac, enter:
 
     git config --global core.editor TextEdit
 
-Neither command will report successful completion; you’ll just get another prompt.  Now, set your name and e-mail address, substituting your information for Max.  (n.b.: Max is one of the scientists from “Avatar”.)
-
-These are two separate commands. Copy, paste, and edit them one at a time. Use only your backspace and arrow keys to edit these lines; your mouse or touchpad may not work correctly.
+Neither command will report successful completion; you’ll just get another prompt.
 
 **WARNING: Read completely through the rest of this section before you Copy and Paste the commands.**
+
+Now, set your name and e-mail address, substituting your information for Max.  (n.b.: Max is one of the scientists from “Avatar”.)
 
 **Important: After pasting these lines into your Command Prompt (or Terminal) window, backspace over the name / email, *including the quotes*, and type in your own information, again *including the quotes*, before you hit \<Enter\>.**
 
 **You MUST delete and re-type the quote characters.**
+
+These are two separate commands. Copy, paste, and edit them one at a time. Use only your backspace and arrow keys to edit these lines; your mouse or touchpad may not work correctly.
 
 
 ```
