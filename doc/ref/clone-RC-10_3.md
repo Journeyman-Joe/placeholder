@@ -19,8 +19,8 @@ As of this writing, Acme Robotics has not updated their Roadrunner repository to
 ### Cloning the repository onto your personal laptop
 
 I've copied this repository into a template for the Princeton STEM Academy teams:
-*RC-10_3* and uploaded it into your teams' GitHub accounts.
-I have also pulled it down onto the PSA shared laptops (all teams).
+*RC-10_3*, and uploaded it into your teams' GitHub accounts.
+(I have not yet pulled it down onto the PSA shared laptops, as they do not have compatible versions of Android Studio at this time.) 
 
 If you already have GitHub credentials from a prior season (*IntoTheDeep*, *CenterStage* or *PowerPlay*) on your personal laptop,
 you should be able to clone the *RC-10_3* repository without my help.
