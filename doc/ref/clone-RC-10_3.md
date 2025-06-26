@@ -6,7 +6,19 @@ June 26, 2025
 
 FTC has just released the (presumed) final Robot Controller SDK for the *Into The Deep* season; version 10.3. Historically, the post-season SDK release provides FTC teams with an early look at new features for the upcoming season. (No doubt that FIRST benefits from the expanded testing community, as well.)
 
-I've  cloned this repository into a template for the Princeton STEM Academy teams:
+### Note regarding Android Studio versions
+
+FIRST introduced an unavoidable *breaking change* with SDK 10.1.1. If your team used SDK 10.0 or SDK 10.1 during the *Into The Deep* season, you probably have a "Koala" or earlier version of Android Studio on your laptop. You will have to update your version of Android Studio to "Ladybug", or newer to use this RC-10_3 SDK, or the expected SDK 11.0 next season.
+
+See the [Android Studio upgrade](#android-studio-upgrade) section, below.
+
+### Note regarding third-party resources
+
+As of this writing, Acme Robotics has not updated their Roadrunner repository to use the SDK 10.3 baseline. I have not looked for anything regarding Pedro Pathing, or any of the other third-party resources you may be using.
+
+### Cloning the repository onto your personal laptop
+
+I've copied this repository into a template for the Princeton STEM Academy teams:
 *RC-10_3* and uploaded it into your teams' GitHub accounts.
 I have also pulled it down onto the PSA shared laptops (all teams).
 
@@ -69,9 +81,29 @@ The manual edits point the `git clone` command to the new *RC-10_3* repository.
 Now go ahead and hit *enter*.
 You should see a download of you new repository.
 
-That's it; open Android Studio and start exploring.
-Note that it won't show up in your "recently used" list, the first time.
-You will have to "Open" it as a new repository from the top menu,
-and "Trust" the project.
+### Android Studio upgrade
+
+In brief: Newer versions of the SDK won't work with older versions of Android Studio. Also: newer versions of Android Studio won't work with older versions of the SDK.
+
+This is awkward for everybody. It can't be helped.
+
+#### Option 1: Don't look back
+
+With this option, you upgrade your Android Studio installation to "Ladybug", or newer ("Narwhal", as of this writing). You will not be able to build your SDK 10.1 or older repositories.
+
+To keep your *IntoTheDeep* robot functional, I recommend copying your Java classes from your old repository into the new RC-10_3 repository, and build an *IntoTheDeep* Robot Controller using SDK 10.3. I've already created an `IntoTheDeep` branch in our new RC-10_3 repository for that purpose.
+
+This should work well for teams that aren't using Roadrunner, or other third-party libraries.
+
+#### Option 2: Multiple versions of Android Studio
+
+Online search suggests that it's possible to have multiple versions of Android Studio on the same computer, without interference. I will be testing this capability on Windows, and will update this section accordingly.
+
+I have no idea whether or not Macs will support multiple versions of Android Studio, and would welcome contributions from our Mac-fan group of programmers.
+
+This is probably the best solution for teams that **are** using Roadrunner, or other third-party libraries.
+
+
+
 
 [_homepage / index_](../../index.md)
