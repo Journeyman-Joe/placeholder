@@ -97,7 +97,9 @@ This should work well for teams that aren't using Roadrunner, or other third-par
 
 #### Option 2: Multiple versions of Android Studio
 
-Online search suggests that it's possible to have multiple versions of Android Studio on the same computer, without interference. I will be testing this capability on Windows, and will update this section accordingly.
+Online search suggests that it's possible to have multiple versions of Android Studio on the same computer, without interference. I have tested this on the Windows 10 laptop I use at the Academy, and it seems to work.
+
+In brief: Rename the Start Menu shortcut for Android Studio to something else (e.g.: "Android Studio Koala"), then, install the new version, changing the installation folder name when the installer offers you the option. After the installation is complete, you will have two Android Studio shortcuts in your Start Menu: "Android Studio", and "Android Studio Koala", in my example. Optionally, rename the new shortcut for clarity (e.g., "Android Studio Narwhal").
 
 I have no idea whether or not Macs will support multiple versions of Android Studio, and would welcome contributions from our Mac-fan group of programmers.
 
