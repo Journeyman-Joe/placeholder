@@ -16,6 +16,8 @@
 
 [Installing Git](doc/ref/installing-git.md)
 
+[Cloning the Decode Repository](doc/ref/clone-decode.md)
+
 [Cloning the RC-10_3 Repository](doc/ref/clone-RC-10_3.md)
 
 [Cloning an Into The Deep Repository](doc/ref/clone-intothedeep.md)
