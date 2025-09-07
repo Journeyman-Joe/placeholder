@@ -4,7 +4,11 @@
 
 September 7, 2025
 
-FTC has just released the initial Robot Controller SDK for the *Decode* season; version 11.0.
+FTC has just released the initial Robot Controller SDK for the *Decode* season; version 11.0. I have prepared these instructions to allow the Princeton STEM Academy teams to load the new SDK onto their personal laptops without my help, by leveraging their team access credentials from the prior season.
+
+*Note that the new teams, Palindrome and Who Blinked, don't yet have these team access credentials. I'll be working with the programmers on those teams individually to get them set up.*
+
+(Don't worry about the shared laptops in the Academy. I'll be updating those myself.)
 
 ### Note regarding Android Studio versions
 
