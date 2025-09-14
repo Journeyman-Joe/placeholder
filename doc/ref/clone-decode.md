@@ -37,10 +37,18 @@ Open a Command Prompt Window (PC) or a Terminal Window (Mac). Your Android Studi
 cd android-workspace
 cd AndroidStudioProjects
 ```
-Then, enter the following command:
+Then, enter one of the following commands:
+
+PC:
 ```
 dir
 ```
+
+Mac:
+```
+ls
+```
+
 You should see a list of your current repositories, which may include *IntoTheDeep*, *IntoTheDeepRR*, *CenterStage*, *CenterStageRR*, *CenterStageQQ*, *PowerPlay* or *PowerPlayRR*.
 Enter **one (and only one)** of these commands to match (it doesn't matter which one you have):
 ```
