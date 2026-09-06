@@ -2,19 +2,17 @@
 
 ## Cloning the *Biobuzz* Repository
 
-September 7, 2025
+September XX, 2026
 
-FTC has just released the initial Robot Controller SDK for the *Biobuzz* season; version 12.0. I have prepared these instructions to allow the Princeton STEM Academy teams to load the new SDK onto their personal laptops without my help, by leveraging their team access credentials from the prior season.
+FTC has just released the initial Robot Controller SDK for the *Biobuzz* season; version 12.0. I have prepared these instructions to allow the Princeton STEM Academy team programmers to load the new SDK onto their personal laptops without my help, by leveraging their team access credentials from the prior season.
 
-*Note that new programmers, or programmers who have switched teams, don't have prior season team access credentials. I'll be working with the programmers on those teams individually to get them set up.*
+*Note that new programmers, or programmers who have switched teams, don't have prior season team access credentials. If that's you, reach out to me to get set up.*
 
 (Don't worry about the shared laptops in the Academy. I'll be updating those myself.)
 
 ### Note regarding Android Studio versions
 
 FIRST introduced a *breaking change* with SDK 11.2. Check your Android Studio version (splash screen or `Help | About`). You need "Narwhal 3" or a newer version (Otter, Panda, or Quail) to use this SDK.
-
-See the [Android Studio upgrade](#android-studio-upgrade) section, below.
 
 ### Note regarding third-party resources
 
@@ -49,7 +47,7 @@ Mac:
 ls
 ```
 
-You should see a list of your current repositories, which may include *Decode* *IntoTheDeep*, *IntoTheDeepRR*, *CenterStage*, *CenterStageRR*, *CenterStageQQ*, *PowerPlay* or *PowerPlayRR*.
+You should see a list of your current repositories, which may include *Decode*, *IntoTheDeep*, *IntoTheDeepRR*, *CenterStage*, *CenterStageRR*, *CenterStageQQ*, *PowerPlay* or *PowerPlayRR*.
 Enter **one (and only one)** of these commands to match (it doesn't matter which one you have):
 ```
 cd Decode
@@ -65,7 +63,7 @@ Now, enter the command:
 ```
 git remote -v
 ```
-Note that the output contains a URL; (the same URL, twice).
+The output contains a URL; (the same URL, twice).
 Highlight and copy (with CTRL-C) that URL, from `https://` through `.git`.
 Don't copy the space after `.git`.
 
